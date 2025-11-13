@@ -8,3 +8,9 @@
 <img width="1350" height="1007" alt="post" src="https://github.com/user-attachments/assets/85990300-a1d4-423e-aa82-ecdd683c2b5a" />
 
 <img width="1346" height="1008" alt="del" src="https://github.com/user-attachments/assets/cf0144f5-6037-4ace-b2e0-2234293373d6" />
+
+
+API Unit Testing with Pytest & Django APITestCase
+
+<img width="1228" height="902" alt="Screenshot 2025-11-13 213125" src="https://github.com/user-attachments/assets/4319c069-73b5-47c2-ba2f-22651a5bca7e" />
+<img width="1250" height="922" alt="Screenshot 2025-11-13 213203" src="https://github.com/user-attachments/assets/9c5c5bf4-67e3-447a-becc-74d55fdb3fdb" />
